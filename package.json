@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ВАШ-ЛОГИН.github.io/book-manager/",
+  "homepage": "https://ALightSphere.github.io/book-manager/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
